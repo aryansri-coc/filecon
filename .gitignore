@@ -3,8 +3,6 @@ node_modules/
 package-lock.json
 
 # Environment variables
-.env
-.env.local
 
 # Logs
 npm-debug.log*
@@ -22,3 +20,4 @@ uploads/
 output/
 dist/
 temp/
+config.bat
